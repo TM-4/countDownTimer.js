@@ -1,0 +1,7 @@
+.time-container {
+    display: flex;
+}
+
+.time {
+    margin: 0 10px;
+}
